@@ -1,6 +1,11 @@
 .text-h2 {
     color:red;
     padding-bottom: 15px;
+    font-size: 25px;
+}
+
+body {
+    background-image: url("../img/wall.png");
 }
 
 .container {
@@ -17,6 +22,7 @@
     width: 100%;
     background-color: #000;
     color: #fff;
+    border-bottom: 6px solid #ffd700;
 }
 
 .panel {
@@ -24,7 +30,6 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    border: 1px solid red;
 }
 
 .square {
@@ -35,5 +40,12 @@
 }
 
 .enemy {
-    background-color: #ff0000;
+    background-image: url("../img/ralph.png");
+    background-size: cover;
+}
+
+.menu-lives {
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
