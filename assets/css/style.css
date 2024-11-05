@@ -48,4 +48,25 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+footer {
+  margin-top: 70px;
+  padding-top: 15px;
+  padding-bottom: 10px;
+  background-color: #000;
+  display: flex;
+  justify-content: space-around;
+}
+footer .text {
+  color: #fff;
+  display: flex;
+  font-size: 15px;
+  align-items: center;
+  justify-content: space-around;
+}
+footer .text a {
+  margin-left: 35px;
+  text-decoration: none;
+  color: #fff;
 }/*# sourceMappingURL=style.css.map */
