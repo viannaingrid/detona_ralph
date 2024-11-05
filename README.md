@@ -53,10 +53,12 @@ git clone https://github.com/viannaingrid/detona_ralph.git
   <li>Faça o push para a branch <code>(git push origin feature/NomeDaFeature)</code>.</li>
   <li>Abra um Pull Request.</li>
 </ul>
-
-📞 Contato
-Caso tenha alguma dúvida, sugestão ou feedback, sinta-se à vontade para entrar em contato!
-
-<li>Ingrid Vianna de Oliveira</li>
-<li>GitHub: <a href="https://github.com/viannaingrid">viannaingrid</a></li>
-<li>LinkedIn: <a hrf="https://www.linkedin.com/in/ingrid-vianna/">Ingrid Vianna de Oliveira</a></li>
+<br>
+<br>
+<h3>📞 Contato</h3>
+<p>Caso tenha alguma dúvida, sugestão ou feedback, sinta-se à vontade para entrar em contato!</p>
+<ul>
+  <li>Ingrid Vianna de Oliveira</li>
+  <li>GitHub: <a href="https://github.com/viannaingrid">viannaingrid</a></li>
+  <li>LinkedIn: <a hrf="https://www.linkedin.com/in/ingrid-vianna/">Ingrid Vianna de Oliveira</a></li>
+</ul>
