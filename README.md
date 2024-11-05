@@ -1,7 +1,7 @@
 <h1>Detona Ralph</h1>
 <p>Bem-vindo ao repositório Detona Ralph! Este projeto foi criado como parte de um estudo em desenvolvimento front-end e práticas de design interativo. Aqui, exploramos conceitos de animação, layout responsivo e criação de interfaces inspiradas no personagem icônico da animação "Detona Ralph".</p>
 <br>
-<h2>Prévia do Proheto</h2>
+<h2>Prévia do Projeto</h2>
 <img src="https://github.com/viannaingrid/detona_ralph/blob/main/assets/img/img1.png">
 <img src="https://github.com/viannaingrid/detona_ralph/blob/main/assets/img/img2.png">
 <h2>🎮 Sobre o Projeto</h2>
