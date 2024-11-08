@@ -28,14 +28,13 @@
         display: flex;
         align-items: center;
         justify-content: center;
-    }
 
-    .square {
-        width: 30vw; 
-        height: 30vw; 
-        background-color: aquamarine; 
+        .square {
+            height: 15vh;
+            width: 28vw; 
+            background-color: aquamarine; 
+        }
     }
-
 
 
     .botoes {
@@ -54,8 +53,11 @@
     }
 
     .mensagem {
-        font-size: 10px;
-        display: flex;
+        width: 200px;
+
+        #mensagem{
+            font-size: 20px;
+        }
     }
     
     footer {
@@ -80,6 +82,32 @@
                 margin-top: 20px;
                 justify-content: center;
             }
+        }
+    }
+}
+
+@media (max-width: 900px) {
+    .square {
+        height: 20vh;
+        width: 23.67vw;
+    }
+
+    .botoes{
+        align-items: center;
+        justify-content: space-around;
+
+        button {
+            margin-left: 10px;
+        }
+    }
+
+    .mensagem {
+        width: 120px;
+        margin-top: 10px;
+
+        #mensagem {
+            font-size: 0.6rem;
+            justify-content: center;
         }
     }
 }
