@@ -6,7 +6,7 @@
 
 @media (max-width: 500px) {
   .text-h2 {
-    padding-bottom: 20px;
+    padding-bottom: 15px;
     font-size: 15px;
   }
   .menu-lives {
@@ -16,7 +16,8 @@
     width: 50px;
   }
   .menu {
-    height: 12vh;
+    height: 14vh;
+    padding-left: 10px;
   }
   .panel {
     margin-top: 1rem;
@@ -37,7 +38,6 @@
   .botoes button {
     font-size: 1rem;
     border-radius: 8px;
-    margin-bottom: 5px;
   }
   .botoes button button:active {
     transform: scale(0.95);
