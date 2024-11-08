@@ -1,0 +1,70 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@media (max-width: 500px) {
+  .text-h2 {
+    padding-bottom: 20px;
+    font-size: 15px;
+  }
+  .menu-lives {
+    font-size: 15px;
+  }
+  .menu-lives img {
+    width: 50px;
+  }
+  .menu {
+    height: 12vh;
+  }
+  .panel {
+    margin-top: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .square {
+    width: 30vw;
+    height: 30vw;
+    background-color: aquamarine;
+  }
+  .botoes {
+    flex-direction: column;
+    justify-content: space-around;
+    margin-top: 0px;
+  }
+  .botoes button {
+    font-size: 1rem;
+    border-radius: 8px;
+    margin-bottom: 5px;
+  }
+  .botoes button button:active {
+    transform: scale(0.95);
+  }
+  .mensagem {
+    font-size: 10px;
+    display: flex;
+  }
+  footer {
+    margin-top: 350px;
+    padding: 10px;
+    flex-direction: column;
+  }
+  footer .icons {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 20px;
+  }
+  footer .text {
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 20px;
+  }
+  footer .text a {
+    margin-top: 20px;
+    justify-content: center;
+  }
+}/*# sourceMappingURL=mobile.css.map */
